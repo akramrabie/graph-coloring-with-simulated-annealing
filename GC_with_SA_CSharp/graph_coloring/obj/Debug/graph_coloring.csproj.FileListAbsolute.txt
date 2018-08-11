@@ -1,0 +1,12 @@
+E:\uni\yousefi\graph_coloring\yousefi\graph_coloring_yusefi\graph_coloring_yusefi\bin\Debug\graph_coloring_yusefi.exe.config
+E:\uni\yousefi\graph_coloring\yousefi\graph_coloring_yusefi\graph_coloring_yusefi\obj\Debug\graph_coloring_yusefi.exe
+E:\uni\yousefi\graph_coloring\yousefi\graph_coloring_yusefi\graph_coloring_yusefi\obj\Debug\graph_coloring_yusefi.pdb
+F:\myProjects\graph_coloring_CSharp\graph_coloring_yusefi\bin\Debug\graph_coloring_yusefi.exe.config
+F:\myProjects\graph_coloring_CSharp\graph_coloring_yusefi\obj\Debug\graph_coloring_yusefi.exe
+F:\myProjects\graph_coloring_CSharp\graph_coloring_yusefi\obj\Debug\graph_coloring_yusefi.pdb
+F:\myProjects\graph_coloring_CSharp\graph_coloring_yusefi\bin\Debug\graph_coloring.exe.config
+F:\myProjects\graph_coloring_CSharp\graph_coloring\bin\Debug\graph_coloring.exe.config
+F:\myProjects\graph_coloring_CSharp\graph_coloring\obj\Debug\graph_coloring.csprojResolveAssemblyReference.cache
+F:\myProjects\graph_coloring_CSharp\graph_coloring\obj\Debug\graph_coloring_yusefi.Form1.resources
+F:\myProjects\graph_coloring_CSharp\graph_coloring\obj\Debug\graph_coloring.Properties.Resources.resources
+F:\myProjects\graph_coloring_CSharp\graph_coloring\obj\Debug\graph_coloring.csproj.GenerateResource.Cache

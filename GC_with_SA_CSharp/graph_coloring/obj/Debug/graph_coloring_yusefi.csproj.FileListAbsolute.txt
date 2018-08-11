@@ -1,0 +1,9 @@
+E:\uni\yousefi\graph_coloring\yousefi\graph_coloring_yusefi\graph_coloring_yusefi\bin\Debug\graph_coloring_yusefi.exe.config
+E:\uni\yousefi\graph_coloring\yousefi\graph_coloring_yusefi\graph_coloring_yusefi\bin\Debug\graph_coloring_yusefi.exe
+E:\uni\yousefi\graph_coloring\yousefi\graph_coloring_yusefi\graph_coloring_yusefi\bin\Debug\graph_coloring_yusefi.pdb
+E:\uni\yousefi\graph_coloring\yousefi\graph_coloring_yusefi\graph_coloring_yusefi\obj\Debug\graph_coloring_yusefi.csprojResolveAssemblyReference.cache
+E:\uni\yousefi\graph_coloring\yousefi\graph_coloring_yusefi\graph_coloring_yusefi\obj\Debug\graph_coloring_yusefi.Form1.resources
+E:\uni\yousefi\graph_coloring\yousefi\graph_coloring_yusefi\graph_coloring_yusefi\obj\Debug\graph_coloring_yusefi.Properties.Resources.resources
+E:\uni\yousefi\graph_coloring\yousefi\graph_coloring_yusefi\graph_coloring_yusefi\obj\Debug\graph_coloring_yusefi.csproj.GenerateResource.Cache
+E:\uni\yousefi\graph_coloring\yousefi\graph_coloring_yusefi\graph_coloring_yusefi\obj\Debug\graph_coloring_yusefi.exe
+E:\uni\yousefi\graph_coloring\yousefi\graph_coloring_yusefi\graph_coloring_yusefi\obj\Debug\graph_coloring_yusefi.pdb
